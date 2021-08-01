@@ -1,4 +1,4 @@
-# Ecommerce Laravel Backend
+# Cakeshop Springboot Fullstack
 
 | Project Title : **CakeShop** |
 --------
