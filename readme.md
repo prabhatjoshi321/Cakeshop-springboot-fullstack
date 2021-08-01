@@ -182,3 +182,10 @@ The Customer must connect to the Internet to access the Website:
 * Broadband Internet
 
 * Dialup or Broadband Connection with an Internet Provider.
+
+
+## Screenshots
+[img.jpg](./1.jpg)
+[img.jpg](./2.jpg)
+[img.jpg](./3.jpg)
+
