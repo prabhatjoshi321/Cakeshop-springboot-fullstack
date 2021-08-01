@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MakeYourOwnCakeApplication {
+public class cakeshopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MakeYourOwnCakeApplication.class, args);
+		SpringApplication.run(cakeshopApplication.class, args);
 	}
 
 }
