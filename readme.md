@@ -185,7 +185,7 @@ The Customer must connect to the Internet to access the Website:
 
 
 ## Screenshots
-[img.jpg](./1.jpg)
-[img.jpg](./2.jpg)
-[img.jpg](./3.jpg)
+![img.png](./1.png)
+![img.png](./2.png)
+![img.png](./3.png)
 
